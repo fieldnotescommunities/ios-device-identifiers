@@ -1,0 +1,4 @@
+install:
+    - yarn add jsonlint --dev
+script:
+    - yarn run jsonlint ios-device-identifiers.json
