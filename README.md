@@ -25,7 +25,12 @@ yarn run jsonlint ios-device-identifiers.json
 
 ## Acknowledgements:
 
+Many thanks to PRs from:
+
+* @pschmidtboeing
+
 Many thanks to the various gist-maintainers:
 
 * https://gist.github.com/adamawolf/3048717
 * https://gist.github.com/ReanimationXP/53c5a6a329397fb8fb0742d35112d345
+* https://gist.github.com/pschmidtboeing/0e6f5f4090089f3d01a7c52a89709d1e
