@@ -82,6 +82,14 @@
   "iPad7,4": "iPad Pro 2nd Gen (10.5 inch, WiFi+Cellular)",
   "iPad7,5": "iPad 6th Gen (WiFi)",
   "iPad7,6": "iPad 6th Gen (WiFi+Cellular)",
+  "iPad8,1": "iPad Pro 3rd Gen (11 inch, WiFi)"
+  "iPad8,2": "iPad Pro 3rd Gen (11 inch, WiFi, 1TB)"
+  "iPad8,3": "iPad Pro 3rd Gen (11 inch, WiFi+Cellular)"
+  "iPad8,4": "iPad Pro 3rd Gen (11 inch, WiFi+Cellular, 1TB)"
+  "iPad8,5": "iPad Pro 3rd Gen (12.9 inch, WiFi)"
+  "iPad8,6": "iPad Pro 3rd Gen (12.9 inch, WiFi, 1TB)"
+  "iPad8,7": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular)"
+  "iPad8,8": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular, 1TB)"
 
   "Watch1,1": "Apple Watch 1st Gen 38mm case",
   "Watch1,2": "Apple Watch 1st Gen 42mm case",
