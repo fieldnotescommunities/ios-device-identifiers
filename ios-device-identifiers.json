@@ -44,7 +44,7 @@
   "iPod4,1": "iPod 4th Gen",
   "iPod5,1": "iPod 5th Gen",
   "iPod7,1": "iPod 6th Gen",
-  "iPod9,1": "7th Gen iPod",
+  "iPod9,1": "iPod 7th Gen",
 
   "iPad1,1": "iPad 1st Gen (WiFi)",
   "iPad1,2": "iPad 1st Gen (3G)",
@@ -97,9 +97,9 @@
   "iPad8,7": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular)",
   "iPad8,8": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular, 1TB)",
   "iPad11,1": "iPad mini 5th Gen (WiFi)",
-  "iPad11,2": "iPad mini 5th Gen",
+  "iPad11,2": "iPad mini 5th Gen (WiFi+Cellular)",
   "iPad11,3": "iPad Air 3rd Gen (WiFi)",
-  "iPad11,4": "iPad Air 3rd Gen",
+  "iPad11,4": "iPad Air 3rd Gen (WiFi+Cellular)",
 
   "Watch1,1": "Apple Watch 1st Gen 38mm case",
   "Watch1,2": "Apple Watch 1st Gen 42mm case",
