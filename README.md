@@ -27,9 +27,9 @@ To convert a gist in .txt format
 
 e.g
  
-    export RAW=https://gist.githubusercontent.com/pschmidtboeing/0e6f5f4090089f3d01a7c52a89709d1e/raw/174b46415146d4c34c69d6f64c25ce46839582bd/iOS_watchOS_device_types.txt
-    curl $RAW >  ./ios-device_identifiers.txt
-    bin/convert.sh  ./ios-device_identifiers.txt
+    export RAW=
+    curl https://gist.github.com/adamawolf/3048717/raw/19b4cc0627ff669f1c4589324b9cb45e4948ec01/Apple_mobile_device_types.txt > ios-device-identifiers.txt 
+    bin/convert.sh  $(pwd)/ios-device-identifiers.txt
 
 and then review
 
