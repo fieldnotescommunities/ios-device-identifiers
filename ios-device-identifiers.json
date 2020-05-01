@@ -37,6 +37,7 @@
   "iPhone12,1": "iPhone 11",
   "iPhone12,3": "iPhone 11 Pro",
   "iPhone12,5": "iPhone 11 Pro Max",
+  "iPhone12,8": "iPhone SE 2nd Gen",
 
   "iPod1,1": "iPod 1st Gen",
   "iPod2,1": "iPod 2nd Gen",
@@ -96,6 +97,10 @@
   "iPad8,6": "iPad Pro 3rd Gen (12.9 inch, WiFi, 1TB)",
   "iPad8,7": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular)",
   "iPad8,8": "iPad Pro 3rd Gen (12.9 inch, WiFi+Cellular, 1TB)",
+  "iPad8,9": "iPad Pro 2nd Gen (11 inch, WiFi)",
+  "iPad8,10": "iPad Pro 2nd Gen (11 inch, WiFi+Cellular)",
+  "iPad8,11": "iPad Pro 4th Gen (12.9 inch, WiFi)",
+  "iPad8,12": "iPad Pro 4th Gen (12.9 inch WiFi+Cellular)",
   "iPad11,1": "iPad mini 5th Gen (WiFi)",
   "iPad11,2": "iPad mini 5th Gen (WiFi+Cellular)",
   "iPad11,3": "iPad Air 3rd Gen (WiFi)",
