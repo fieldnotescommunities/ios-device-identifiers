@@ -31,7 +31,7 @@
   "iPhone10,3": "iPhone X",
   "iPhone10,6": "iPhone X (no CDMA)",
   "iPhone11,2": "iPhone XS",
-  "iPhone11,4": "iPhone XS Max (special model?)",
+  "iPhone11,4": "iPhone XS Max (China)",
   "iPhone11,6": "iPhone XS Max",
   "iPhone11,8": "iPhone XR",
   "iPhone12,1": "iPhone 11",
@@ -131,5 +131,13 @@
   "Watch5,1": "Apple Watch Series 5 40mm case (GPS)",
   "Watch5,2": "Apple Watch Series 5 44mm case (GPS)",
   "Watch5,3": "Apple Watch Series 5 40mm case (GPS+Cellular)",
-  "Watch5,4": "Apple Watch Series 5 44mm case (GPS+Cellular)"
+  "Watch5,4": "Apple Watch Series 5 44mm case (GPS+Cellular)",
+  "Watch6,1": "Apple Watch Series 6 40mm case (GPS)",
+  "Watch6,2": "Apple Watch Series 6 44mm case (GPS)",
+  "Watch6,3": "Apple Watch Series 6 40mm case (GPS+Cellular)",
+  "Watch6,4": "Apple Watch Series 6 44mm case (GPS+Cellular)"}
+  "Watch5,9": "Apple Watch SE 40mm case (GPS)",
+  "Watch5,10": "Apple Watch SE 44mm case (GPS)",
+  "Watch5,11": "Apple Watch SE 40mm case (GPS+Cellular)",
+  "Watch5,12": "Apple Watch SE 44mm case (GPS+Cellular)"
 }
