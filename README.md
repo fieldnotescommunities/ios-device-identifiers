@@ -37,7 +37,8 @@ and then review
 
 Many thanks to PRs from:
 
-* @pschmidtboeing
+* [@pschmidtboeing](https://github.com/pschmidtboeing)
+* [@samius](https://github.com/samius)
 
 Many thanks to the various gist-maintainers:
 
