@@ -1,6 +1,7 @@
 {
   "i386": "iOS Simulator 32-bit",
   "x86_64": "iOS Simulator 64-bit",
+  "arm64": "iPhone Simulator ARM",
 
   "iPhone1,1": "iPhone 1st Gen",
   "iPhone1,2": "iPhone 3G 2nd Gen",
