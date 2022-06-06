@@ -39,6 +39,8 @@ Many thanks to PRs from:
 
 * [@pschmidtboeing](https://github.com/pschmidtboeing)
 * [@samius](https://github.com/samius)
+* [@stefandevo](https://github.com/stefandevo)
+* [@kyle-seongwoo-jun](https://github.com/kyle-seongwoo-jun)
 
 Many thanks to the various gist-maintainers:
 
