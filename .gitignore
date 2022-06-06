@@ -1,2 +1,5 @@
 /ios-device-identifiers.txt
-
+/node_modules
+/package.json
+/yarn-error.log
+/yarn.lock
