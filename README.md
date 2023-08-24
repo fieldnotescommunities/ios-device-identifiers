@@ -42,6 +42,7 @@ Many thanks to PRs from:
 * [@stefandevo](https://github.com/stefandevo)
 * [@kyle-seongwoo-jun](https://github.com/kyle-seongwoo-jun)
 * [@bobatsar](https://github.com/bobatsar)
+* [@kyle-seongwoo-jun](https://github.com/kyle-seongwoo-jun)
 
 Many thanks to the various gist-maintainers:
 
