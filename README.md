@@ -1,4 +1,4 @@
-# ios-device-identifiers
+  # ios-device-identifiers
 
 A json file for mapping iOS device identifiers to some human readable equivalent.
 
@@ -35,7 +35,7 @@ and then review
 
 ## Acknowledgements:
 
-Many thanks to PRs from:
+Many thanks to PRs or reviews from:
 
 * [@pschmidtboeing](https://github.com/pschmidtboeing)
 * [@samius](https://github.com/samius)
@@ -43,7 +43,9 @@ Many thanks to PRs from:
 * [@kyle-seongwoo-jun](https://github.com/kyle-seongwoo-jun)
 * [@bobatsar](https://github.com/bobatsar)
 * [@kyle-seongwoo-jun](https://github.com/kyle-seongwoo-jun)
-
+* [@MrOlolo](https://github.com/MrOlolo)
+* [@colincameron](https://github.com/colincameron)
+  
 Many thanks to the various gist-maintainers:
 
 * https://gist.github.com/adamawolf/3048717
