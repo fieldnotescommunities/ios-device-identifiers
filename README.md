@@ -31,7 +31,7 @@ e.g
     curl https://gist.github.com/adamawolf/3048717/raw/19b4cc0627ff669f1c4589324b9cb45e4948ec01/Apple_mobile_device_types.txt > ios-device-identifiers.txt 
     bin/convert.sh  $(pwd)/ios-device-identifiers.txt
 
-and then review
+and then review (please only commit additions - don't change the names of existing entries as these have been stable for a while)
 
 ## Acknowledgements:
 
