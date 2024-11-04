@@ -45,7 +45,8 @@ Many thanks to PRs or reviews from:
 * [@kyle-seongwoo-jun](https://github.com/kyle-seongwoo-jun)
 * [@MrOlolo](https://github.com/MrOlolo)
 * [@colincameron](https://github.com/colincameron)
-  
+* [@tim-field](https://github.com/tim-field)
+
 Many thanks to the various gist-maintainers:
 
 * https://gist.github.com/adamawolf/3048717
