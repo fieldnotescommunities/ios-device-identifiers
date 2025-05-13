@@ -60,6 +60,7 @@
   "iPhone17,2": "iPhone 16 Pro Max",
   "iPhone17,3": "iPhone 16",
   "iPhone17,4": "iPhone 16 Plus",
+  "iPhone17,5": "iPhone 16e",
 
   "iPod1,1": "iPod 1st Gen",
   "iPod2,1": "iPod 2nd Gen",
@@ -161,6 +162,12 @@
   "iPad16,4": "iPad Pro 11 inch 5th Gen",
   "iPad16,5": "iPad Pro 12.9 inch 7th Gen",
   "iPad16,6": "iPad Pro 12.9 inch 7th Gen",
+  "iPad15,7": "iPad (A16) (WiFi)",
+  "iPad15,8": "iPad (A16) (WiFi+Cellular)",
+  "iPad15,3": "iPad Air (11-inch) (M3) (WiFi)",
+  "iPad15,4": "iPad Air (11-inch) (M3) (WiFi+Cellular)",
+  "iPad15,5": "iPad Air (13-inch) (M3) (WiFi)",
+  "iPad15,6": "iPad Air (13-inch) (M3) (WiFi+Cellular)",
 
   "Watch1,1": "Apple Watch 1st Gen 38mm case",
   "Watch1,2": "Apple Watch 1st Gen 42mm case",
