@@ -61,6 +61,10 @@
   "iPhone17,3": "iPhone 16",
   "iPhone17,4": "iPhone 16 Plus",
   "iPhone17,5": "iPhone 16e",
+  "iPhone18,1": "iPhone 17 Pro",
+  "iPhone18,2": "iPhone 17 Pro Max",
+  "iPhone18,3": "iPhone 17",
+  "iPhone18,4": "iPhone Air",
 
   "iPod1,1": "iPod 1st Gen",
   "iPod2,1": "iPod 2nd Gen",
@@ -212,5 +216,18 @@
   "Watch7,2": "Apple Watch Series 9 45mm case (GPS)",
   "Watch7,3": "Apple Watch Series 9 41mm case (GPS+Cellular)",
   "Watch7,4": "Apple Watch Series 9 45mm case (GPS+Cellular)",
-  "Watch7,5": "Apple Watch Ultra 2"
+  "Watch7,5": "Apple Watch Ultra 2",
+  "Watch7,8": "Apple Watch Series 10 42mm case (GPS)",
+  "Watch7,9": "Apple Watch Series 10 46mm case (GPS)",
+  "Watch7,10": "Apple Watch Series 10 42mm case (GPS+Cellular)",
+  "Watch7,11": "Apple Watch Series 10 46mm case (GPS+Cellular)",
+  "Watch7,12": "Apple Watch Ultra 3 49mm case",
+  "Watch7,13": "Apple Watch SE 3 40mm case",
+  "Watch7,14": "Apple Watch SE 3 44mm case",
+  "Watch7,15": "Apple Watch SE 3 40mm case (GPS+Cellular)",
+  "Watch7,16": "Apple Watch SE 3 44mm case (GPS+Cellular)",
+  "Watch7,17": "Apple Watch Series 11 42mm case",
+  "Watch7,18": "Apple Watch Series 11 46mm case",
+  "Watch7,19": "Apple Watch Series 11 42mm case (GPS+Cellular)",
+  "Watch7,20": "Apple Watch Series 11 46mm case (GPS+Cellular)"
 }
