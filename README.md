@@ -47,6 +47,7 @@ Many thanks to PRs or reviews from:
 * [@colincameron](https://github.com/colincameron)
 * [@tim-field](https://github.com/tim-field)
 * [@filipejtdias](https://github.com/filipejtdias)
+* [@indygriffiths](https://github.com/indygriffiths)
 
 Many thanks to the various gist-maintainers:
 
