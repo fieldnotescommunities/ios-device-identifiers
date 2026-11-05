@@ -65,9 +65,11 @@
   "iPhone18,2": "iPhone 17 Pro Max",
   "iPhone18,3": "iPhone 17",
   "iPhone18,4": "iPhone Air",
+  "iPhone18,5": "iPhone 17e",
   "iPhone19,2": "iPhone 18 Pro",
   "iPhone19,3": "iPhone 18 Pro Max",
   "iPhone19,4": "iPhone Duo",
+  "iPhone19,7": "iPhone 18 Pro Max (Global)",
 
   "iPod1,1": "iPod 1st Gen",
   "iPod2,1": "iPod 2nd Gen",
@@ -183,6 +185,8 @@
   "iPad17,2": "iPad Pro 6th Gen (11-inch, WiFi+Cellular)",
   "iPad17,3": "iPad Pro 6th Gen (13-inch, WiFi)",
   "iPad17,4": "iPad Pro 6th Gen (13-inch, WiFi+Cellular)",
+  "iPad19,1": "iPad mini (A20 Pro, Wi-Fi)",
+  "iPad19,2": "iPad mini (A20 Pro, Wi-Fi+Cellular)",
 
   "Watch1,1": "Apple Watch 1st Gen 38mm case",
   "Watch1,2": "Apple Watch 1st Gen 42mm case",
@@ -240,5 +244,10 @@
   "Watch7,17": "Apple Watch Series 11 42mm case",
   "Watch7,18": "Apple Watch Series 11 46mm case",
   "Watch7,19": "Apple Watch Series 11 42mm case (GPS+Cellular)",
-  "Watch7,20": "Apple Watch Series 11 46mm case (GPS+Cellular)"
+  "Watch7,20": "Apple Watch Series 11 46mm case (GPS+Cellular)",
+  "Watch8,1": "Apple Watch Ultra 4",
+  "Watch8,2": "Apple Watch Series 12 42mm case",
+  "Watch8,3": "Apple Watch Series 12 46mm case",
+  "Watch8,4": "Apple Watch Series 12 42mm case (GPS+Cellular)",
+  "Watch8,5": "Apple Watch Series 12 46mm case (GPS+Cellular)"
 }
